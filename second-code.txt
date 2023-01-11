@@ -1,3 +1,12 @@
 second-code입니다!
+<<<<<<< HEAD
 git-test에서 수정
 수정
+=======
+git-test 에서 수정
+git-test-cloned에서 수정
+수정 한번 더 
+>>>>>>> fbdc68c6a98efafbd1c7c7edb3dd18da60f5789e
+
+클론한 저장소에서 추가한 파일 
+git-test-cloned 에서 변경한게 맞습니다! 
